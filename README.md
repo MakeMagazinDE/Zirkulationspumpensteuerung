@@ -3,6 +3,7 @@
 Maker Media GmbH
 
 ***
+![Aufmacher(]https://github.com/MakeMagazinDE/Zirkulationspumpensteuerung/blob/main/aufm_schmal.JPG)
 
 # Warmwasser-Sparpumpe
 
