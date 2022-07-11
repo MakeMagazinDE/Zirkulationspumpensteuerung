@@ -1,0 +1,23 @@
+Partlist
+
+Exported from MQTT-Zirkulation.sch at 22.06.2022 13:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part                Value              Device          Package         Library         Sheet
+
+C1                  100uf/10V          CPOL-EUE2.5-7   E2,5-7          rcl             1
+ESP-12E/F           ESP8266            ESP12SMD        ESP12-SMD       esp8266modules  1
+F1                  1,5A               LITTLEFUSE      LITTLEFUSE      fuse            1
+JP1                 Temp.Sensor 18B20  PINHD-1X4       1X04            pinhead         1
+JP2                 Prog-Schnittstelle PINHD-1X10      1X10            pinhead         1
+PRINTTRAFO3.3V,_3W  PRINTTRAFO         PRINTTRAFO      PRINTTRAFO      Uwes_lib        1
+R1                  1,5K               R-EU_0204/7     0204/7          rcl             1
+R2                  2,2K               R-EU_0204/7     0204/7          rcl             1
+R3                  10K                R-EU_0204/7     0204/7          rcl             1
+R4                  10K                R-EU_0204/7     0204/7          rcl             1
+SSR__OMRONG3MB-202P S102S02            S102S02         S202S02         relay           1
+VAR1                VARISTOR-7,5       VARISTOR-7,5    R-7,5           varistor        1
+X1                  MKDSN1,5/3-5,08    MKDSN1,5/3-5,08 MKDSN1,5/3-5,08 con-phoenix-508 1
