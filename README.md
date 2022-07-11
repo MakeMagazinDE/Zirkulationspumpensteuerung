@@ -13,7 +13,7 @@ Heizkessel mit Brauchwasser-Erwärmung sind in der Regel mit einer Pumpe für de
 ## Stückliste
 
 * C1:                  100uF/10V                                                    
-* ESP-12E/F:           ESP8266-Board                                                
+* ESP-12E/F:           ESP8266-Board oder Wemos D1 Mini                                               
 * F1:                  Sicherung 1,5A                                               
 * JP1:                 3-Pin-Header RM 2.54mm für Temp.Sensor Dallas DS18B20        
 * JP2:                 10-Pin-Header RM 2.54mm für Prog-Schnittstelle               
@@ -26,3 +26,5 @@ Heizkessel mit Brauchwasser-Erwärmung sind in der Regel mit einer Pumpe für de
 * X1:                  Steckverbinder Phoenix MKDSN1,5/3-5,08   
 * Schalterdose Feuchtraum
 * Ggf. Schukostecker/Kupplung
+
+Die Schaltung kann problemlos auf einer Lochraster-Platine aufgebaute werden, wenn netzspannungsführende Leitungen min. 5mm Abstand untereinander und 10mm Abstand zur Niederspannungsseite aufweisen. Beachten Sie die einschlägigen VDE-Vorschriften. Bei der Verwendung eines "nackten" ESP8266-Moduls anstelle des mit Stiftleisten ausgestatteten Wemos-Moduls ist einer (ggf. selbstgefertigte) Platine nötig. Das Layout für den Editor EAGLE finden Sie im entsprechenden Unterordner.
